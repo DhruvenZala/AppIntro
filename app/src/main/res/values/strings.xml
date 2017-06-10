@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">"AppIntro "</string>
+    <string name="title1">App Introduction Screen</string>
+    <string name="what">What is an App Intro?</string>
+    <string name="why">Why to use it ?</string>
+    <string name="how">How do they do it ? </string>
+    <string name="description">This is a Simple Demonstration of an App Intro</string>
+    <string name="whatAnswer">It is a Welcome Screen for the App</string>
+    <string name="whyAnswer">Developers use it to give a starting tour for their App</string>
+    <string name="howAnswer">Its done using Fragments!!</string>
+</resources>
